@@ -1,5 +1,5 @@
 #Supported Colors: aqua,black,blue,bold etc, see: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/ChatColor.html
-#bypasspermission ^= players that have these permissions wont getting any cooldowns.
+#bypasspermission ^= players that have these permissions wont get any cooldowns.
 items:
   280:
     cooldown: 10

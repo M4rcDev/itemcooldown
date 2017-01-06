@@ -1,0 +1,11 @@
+#Supported Colors: aqua,black,blue,bold etc, see: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/ChatColor.html
+#bypasspermission ^= players that have these permissions wont getting any cooldowns.
+items:
+  280:
+    cooldown: 10
+    message: '<red>You must wait #SECONDS# seconds before you can use this nice stick again.'
+    bypasspermissions: itemcooldown.stick
+  368:
+    cooldown: 10
+    message: '<aqua>You must wait #SECONDS# seconds before you can teleport again.'
+    bypasspermissions: itemcooldown.enderpearl
